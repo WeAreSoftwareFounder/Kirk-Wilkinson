@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a Software Enginner passionate about creating 
 - Personal AI assistant (https://github.com/KSLW/Personal-Assistant-Backend) personal assisatnt fot managing day to day life task 
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kirkslwilkinson-msncom&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kirkslwilkinson&show_icons=true&theme=radical)
 
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/kirk-wilkinson-892304b9/)
